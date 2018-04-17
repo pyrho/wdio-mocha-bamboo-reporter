@@ -1,0 +1,23 @@
+{
+  "name": "wdio-mocha-bamboo-reporter",
+  "version": "1.0.1",
+  "description": "A WebdriverIO plugin. Generates json results in mocha format understandable by Atlassian Bamboo.",
+  "main": "./lib/reporter",
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": "git@github.com:pyrho/wdio-mocha-bamboo-reporter.git",
+  "author": "Damien Rajon <pyrhockz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha-bamboo-reporter": "^1.1.1"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "webdriverio",
+    "wdio",
+    "wdio-reporter",
+    "bamboo"
+  ]
+}
